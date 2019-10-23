@@ -1,0 +1,31 @@
+body{
+    background-color: #737373;
+    margin: 0;
+}
+/* .border {
+    border: .1em solid black;
+} */
+#card {
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 30vh 30vw;
+    background-color: rgb(242, 59,42);
+    border-radius: .4em;
+}
+#hello{
+    font-size: .8em;
+}
+#intro{
+    font-size: .4em;
+}
+#name{
+    background-color: white;
+    margin-top: .2em
+}
+#footer{
+    height: .6em;
+}
+
+
+
